@@ -3322,3 +3322,114 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u551_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:68px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(0, 82, 217, 1);
+  border-radius:3px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.8980392156862745);
+  line-height:22px;
+}
+#u551 {
+  border-width:0px;
+  position:absolute;
+  left:852px;
+  top:180px;
+  width:68px;
+  height:29px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.8980392156862745);
+  line-height:22px;
+}
+#u551 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u551_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:68px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(38, 111, 232, 1);
+  border-radius:3px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.8980392156862745);
+  line-height:22px;
+}
+#u551.mouseOver {
+}
+#u551_div.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:68px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(0, 52, 181, 1);
+  border-radius:3px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.8980392156862745);
+  line-height:22px;
+}
+#u551.mouseDown {
+}
+#u551_div.mouseOver.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:68px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(0, 52, 181, 1);
+  border-radius:3px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.8980392156862745);
+  line-height:22px;
+}
+#u551.mouseOver.mouseDown {
+}
+#u551_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}

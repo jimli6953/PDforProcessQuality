@@ -103,4 +103,13 @@
 }
 ._形状 {
 }
+._形状1 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
 textarea, select, input, button, div, svg { outline: none; }

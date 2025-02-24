@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u571 {
+#u572 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -26,14 +26,14 @@
   display:flex;
   transition:none;
 }
-#u571 .text {
+#u572 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u571_img {
+#u572_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -41,7 +41,7 @@
   width:1335px;
   height:594px;
 }
-#u571_text {
+#u572_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
