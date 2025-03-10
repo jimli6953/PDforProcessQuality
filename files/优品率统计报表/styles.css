@@ -16,74 +16,74 @@
   position:absolute;
   z-index:0;
 }
-#u2674 {
+#u3661 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2613px;
-  height:1013px;
+  width:1474px;
+  height:732px;
   display:flex;
   transition:none;
 }
-#u2674 .text {
+#u3661 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2674_img {
+#u3661_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2613px;
-  height:1013px;
+  width:1474px;
+  height:732px;
 }
-#u2674_text {
+#u3661_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u2675_div {
+#u3662_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:723px;
-  height:152px;
+  width:869px;
+  height:423px;
   background:inherit;
   background-color:rgba(255, 223, 37, 1);
   border-radius:0px;
   filter:drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.2));
   transition:none;
 }
-#u2675 {
+#u3662 {
   border-width:0px;
   position:absolute;
-  left:501px;
-  top:1175px;
-  width:723px;
-  height:152px;
+  left:219px;
+  top:795px;
+  width:869px;
+  height:423px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
 }
-#u2675 .text {
+#u3662 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u2675_text {
+#u3662_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u2676 {
+#u3663 {
   border-width:0px;
   position:absolute;
   left:2986px;
@@ -93,14 +93,14 @@
   display:flex;
   transition:none;
 }
-#u2676 .text {
+#u3663 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2676_img {
+#u3663_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -108,7 +108,7 @@
   width:1783px;
   height:1164px;
 }
-#u2676_text {
+#u3663_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

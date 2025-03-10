@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="74px" height="38px" viewBox="1252 19 74 38" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1 1  L 73 1  L 73 37  L 1 37  L 1 1  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 1252 19 )" class="fill" />
-  <path d="M 0.5 1  L 0.5 37  " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1252 19 )" class="stroke" />
-  <path d="M 0 0.5  L 74 0.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1252 19 )" class="stroke" />
-  <path d="M 73.5 1  L 73.5 37  " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1252 19 )" class="stroke" />
-  <path d="M 0 37.5  L 74 37.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 1252 19 )" class="stroke" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="4px" height="4px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2038">
+      <path d="M 3.296551724137932 3.9520000000000026  L 3.9586206896551728 1.0880000000000019  L 0.6620689655172419 0.0640000000000009  L 0 2.9280000000000017  L 3.296551724137932 3.9520000000000026  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -557 -833 )">
+    <path d="M 3.296551724137932 3.9520000000000026  L 3.9586206896551728 1.0880000000000019  L 0.6620689655172419 0.0640000000000009  L 0 2.9280000000000017  L 3.296551724137932 3.9520000000000026  Z " fill-rule="nonzero" fill="rgba(0, 82, 217, 1)" stroke="none" transform="matrix(1 0 0 1 557 833 )" class="fill" />
+    <path d="M 3.296551724137932 3.9520000000000026  L 3.9586206896551728 1.0880000000000019  L 0.6620689655172419 0.0640000000000009  L 0 2.9280000000000017  L 3.296551724137932 3.9520000000000026  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 557 833 )" class="stroke" mask="url(#Clip2038)" />
+  </g>
 </svg>
